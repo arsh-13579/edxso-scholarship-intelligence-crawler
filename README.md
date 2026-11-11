@@ -1,5 +1,9 @@
 # 🎓 Atlas Funding — Autonomous Scholarship Intelligence Crawler
 
+<img width="959" height="508" alt="Screenshot 2026-11-11 115854" src="https://github.com/user-attachments/assets/bb783c78-f7ed-4238-9fcf-e192ee7455d5" />
+<img width="959" height="509" alt="Screenshot 2026-11-11 115925" src="https://github.com/user-attachments/assets/3e4c5c4c-92ba-4cd6-b344-5b49bd8d1cd2" />
+
+
 Built for the **EDXSO AI Engineer Intern — Assignment 2**. This system is an end-to-end, multi-run Scholarship Intelligence Engine that continuously **Discovers → Crawls → Extracts → Verifies → Scores → Stores → Updates** authentic scholarship opportunities for Indian students across **Government, Universities, Corporate CSR, NGO/Trusts, and International** providers.
 
 ---
