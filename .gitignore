@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+setup_assignment2.py

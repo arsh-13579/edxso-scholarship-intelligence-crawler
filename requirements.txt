@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+python-dotenv
+pandas
+streamlit
+rich
+pydantic
